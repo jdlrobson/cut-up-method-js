@@ -1,0 +1,31 @@
+{
+  "name": "cut-up-method-js",
+  "version": "1.0.0",
+  "description": "The cut up method/technique is a literary technique to form new works of art. It was popularised by William S. Burroughs. This makes it easy to cut up chunks of text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdlrobson/cut-up-method-js.git"
+  },
+  "keywords": [
+    "cut-up",
+    "method",
+    "cut-up",
+    "technique",
+    "cut",
+    "up",
+    "william",
+    "burroughs",
+    "writing",
+    "random"
+  ],
+  "author": "Jon Robson",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/jdlrobson/cut-up-method-js/issues"
+  },
+  "homepage": "https://github.com/jdlrobson/cut-up-method-js#readme"
+}
