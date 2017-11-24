@@ -1,5 +1,13 @@
 # Cut-up-method-js
 
+The [cut up method/technique](https://en.wikipedia.org/wiki/Cut-up_technique) is a literary technique to form new works of art.
+It was popularised by [William S. Burroughs](https://en.wikipedia.org/wiki/William_S._Burroughs).
+
+It's like origami - give it some texts you have written and twist them and shape them into new things so that you can tease
+out things in your subconcious or create something totally new.
+
+For example...
+
 ## Add some Murakami...
 Take some text from Haruki Murakami (on seeing the 100 perfect girl one beautiful april morning) and cut it up...
 
