@@ -8,8 +8,8 @@ function shuffle(words) {
 	return newText;
 }
 
-function cutup(text) {
-	var words = text.replace(/\n\r/g, ' ').split(' ');
+function cutup(text, delimiter=' ') {
+	var words = text.replace(/\n\r/g, ' ').split(delimiter);
 	var cut = shuffle(words);
   return cut.join(' ').toLowerCase();
 }

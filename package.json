@@ -1,6 +1,6 @@
 {
   "name": "cut-up-method-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The cut up method/technique is a literary technique to form new works of art. It was popularised by William S. Burroughs. This makes it easy to cut up chunks of text.",
   "main": "index.js",
   "scripts": {
